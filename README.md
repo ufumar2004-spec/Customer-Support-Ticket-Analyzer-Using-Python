@@ -40,7 +40,7 @@ The dataset contains customer support information including:
 # 🛠 Technologies Used
 
 - Python
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ### Python Concepts Used
 
