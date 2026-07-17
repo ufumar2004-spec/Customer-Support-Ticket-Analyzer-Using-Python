@@ -25,7 +25,7 @@ The project showcases core Python programming skills and basic text analytics, m
 - Extract useful insights from customer issues.
 
 
-📂 Dataset
+# 📂 Dataset
 
 The dataset contains customer support information including:
 
@@ -55,7 +55,7 @@ The dataset contains customer support information including:
 - Data Cleaning
 
 
-  # ⚙ Features
+ # ⚙ Features
 
 ## 1. Ticket Management
 
